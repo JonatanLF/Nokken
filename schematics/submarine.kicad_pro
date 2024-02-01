@@ -328,20 +328,16 @@
       ""
     ],
     [
+      "e7b9fea9-8391-41c9-a5a6-c61173f9ecb8",
+      "submarineCard"
+    ],
+    [
       "8dcfa7b9-311d-4cac-bbe9-31493d43bb58",
-      "Untitled Sheet"
+      "handControler"
     ],
     [
       "04a575bb-ba70-4725-851f-c431de32437b",
       "encoder"
-    ],
-    [
-      "51d026a3-02f1-49bf-ab6d-c7a69cf87cb5",
-      "camera"
-    ],
-    [
-      "e7b9fea9-8391-41c9-a5a6-c61173f9ecb8",
-      "submarineCard"
     ]
   ],
   "text_variables": {}

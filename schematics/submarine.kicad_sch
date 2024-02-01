@@ -2101,23 +2101,6 @@
     )
     (instances
       (project "submarine"
-        (path "/5a0570be-4b9a-4522-b102-633fe53e4e72" (page "3"))
-      )
-    )
-  )
-
-  (sheet (at 250.19 119.38) (size 16.51 13.97) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 51d026a3-02f1-49bf-ab6d-c7a69cf87cb5)
-    (property "Sheetname" "camera" (at 250.19 118.6684 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "cameraSub.kicad_sch" (at 250.19 133.9346 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "submarine"
         (path "/5a0570be-4b9a-4522-b102-633fe53e4e72" (page "4"))
       )
     )
@@ -2127,15 +2110,15 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 8dcfa7b9-311d-4cac-bbe9-31493d43bb58)
-    (property "Sheetname" "Untitled Sheet" (at 236.22 135.1784 0)
+    (property "Sheetname" "handControler" (at 236.22 135.1784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Sheetfile" "untitled.kicad_sch" (at 236.22 166.9546 0)
+    (property "Sheetfile" "handControler.kicad_sch" (at 236.22 166.9546 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
       (project "submarine"
-        (path "/5a0570be-4b9a-4522-b102-633fe53e4e72" (page "2"))
+        (path "/5a0570be-4b9a-4522-b102-633fe53e4e72" (page "3"))
       )
     )
   )
@@ -2155,12 +2138,12 @@
     )
     (instances
       (project "submarine"
-        (path "/5a0570be-4b9a-4522-b102-633fe53e4e72" (page "5"))
+        (path "/5a0570be-4b9a-4522-b102-633fe53e4e72" (page "2"))
       )
     )
   )
 
   (sheet_instances
-    (path "/" (page "1"))
+    (path "/" (page "2"))
   )
 )
