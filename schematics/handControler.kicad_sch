@@ -669,7 +669,7 @@
     (uuid f3735af9-9a5e-47b4-b4d9-1f1d938edb63)
   )
 
-  (hierarchical_label "P1GND" (shape input) (at 152.4 105.41 180) (fields_autoplaced)
+  (hierarchical_label "P2GND" (shape input) (at 152.4 105.41 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0c0c2479-5e52-4117-a468-79b5bc492b29)
   )
@@ -725,7 +725,7 @@
           (reference "R6") (unit 1)
         )
         (path "/5a0570be-4b9a-4522-b102-633fe53e4e72/8dcfa7b9-311d-4cac-bbe9-31493d43bb58"
-          (reference "R7") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -754,7 +754,7 @@
           (reference "R3") (unit 1)
         )
         (path "/5a0570be-4b9a-4522-b102-633fe53e4e72/8dcfa7b9-311d-4cac-bbe9-31493d43bb58"
-          (reference "R8") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -926,7 +926,7 @@
           (reference "R6") (unit 1)
         )
         (path "/5a0570be-4b9a-4522-b102-633fe53e4e72/8dcfa7b9-311d-4cac-bbe9-31493d43bb58"
-          (reference "R10") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -985,7 +985,7 @@
           (reference "RV1") (unit 1)
         )
         (path "/5a0570be-4b9a-4522-b102-633fe53e4e72/8dcfa7b9-311d-4cac-bbe9-31493d43bb58"
-          (reference "RV3") (unit 1)
+          (reference "Rp2") (unit 1)
         )
       )
     )
@@ -1015,7 +1015,7 @@
           (reference "RV2") (unit 1)
         )
         (path "/5a0570be-4b9a-4522-b102-633fe53e4e72/8dcfa7b9-311d-4cac-bbe9-31493d43bb58"
-          (reference "RV4") (unit 1)
+          (reference "Rp1") (unit 1)
         )
       )
     )
@@ -1044,7 +1044,7 @@
           (reference "R6") (unit 1)
         )
         (path "/5a0570be-4b9a-4522-b102-633fe53e4e72/8dcfa7b9-311d-4cac-bbe9-31493d43bb58"
-          (reference "R9") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
