@@ -25,23 +25,6 @@
     )
   )
 
-  (sheet (at 68.58 62.23) (size 29.21 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 7dcd63d6-5ff7-4273-8bad-3233742ac2c9)
-    (property "Sheetname" "motorCard" (at 68.58 61.5184 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "motorCard.kicad_sch" (at 68.58 88.2146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "submarine"
-        (path "/5a0570be-4b9a-4522-b102-633fe53e4e72" (page "5"))
-      )
-    )
-  )
-
   (sheet (at 13.97 60.96) (size 49.53 30.48) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
